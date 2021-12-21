@@ -1,0 +1,19 @@
+Hi,
+
+I would like to say thank you for giving me a chance to present my work.
+I made this webbapp for less than 2hours since I only download a template UI, I made this app
+using vanilla JS with jQuery and raw PHP with my own MVC setup.
+
+
+**To Note
+[Menu Registry and Stocks Movement]
+	- Upon adding a Menu the user must select a category and input tax.
+	- Menu Code is the only searchable query for the searchbar
+	- When adding stocks go to 'Goods Receive' for adding inventory
+[Ordering]
+	- Upon Clicking the 'Order' in the Side menu it will automatically create Invoice Number
+	- Upon Clicking the 'Pay' button it will create the OR Number
+	- Upon entering the cuopon code, must click enter to register the code
+
+Thank you,
+Jian Jaico Cajita
