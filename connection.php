@@ -5,7 +5,7 @@
     
     
     try {
-        $conn = new PDO("mysql:host=$servername;dbname=dbordering;charset=utf8mb4", $username, $password);
+        $conn = new PDO("mysql:host=$servername;dbname=cHS1XD71oA;charset=utf8mb4", $username, $password);
         
         $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
         }
