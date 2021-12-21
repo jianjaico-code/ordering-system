@@ -1,7 +1,7 @@
 <?php
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
+    $servername = "remotemysql.com";
+    $username = "cHS1XD71oA";
+    $password = "YtrOfDsT9l";
     
     
     try {
